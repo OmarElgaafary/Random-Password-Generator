@@ -1,0 +1,24 @@
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+div {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#generatedPassword {
+    color: red;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+#passLen {
+    font-weight: bold;
+}
+
+#genPasswordLabel {
+    font-weight: bold;
+}
